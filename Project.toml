@@ -1,0 +1,4 @@
+[deps]
+ElectronDisplay = "d872a56f-244b-5cc9-b574-2017b5b909a8"
+Queryverse = "612083be-0b0f-5412-89c1-4e7c75506a58"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
